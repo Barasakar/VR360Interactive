@@ -17,7 +17,7 @@ namespace Interactive360 {
         Image fadeImage;
 
         AsyncOperation operation;
-
+        //s
         [Header("Scene Management")]
         public string[] scenesToLoad;
         public string activeScene;
